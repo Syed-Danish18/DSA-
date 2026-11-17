@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Syed-Danish18/DSA-/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Syed-Danish18/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Syed-Danish18/DSA-/tree/master/0152-maximum-product-subarray) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Syed-Danish18/DSA-/tree/master/2747-count-zero-request-servers) |
+## String
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
