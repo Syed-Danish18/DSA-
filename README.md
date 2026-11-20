@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Syed-Danish18/DSA-/tree/master/0152-maximum-product-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Syed-Danish18/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Syed-Danish18/DSA-/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Syed-Danish18/DSA-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Syed-Danish18/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Syed-Danish18/DSA-/tree/master/0152-maximum-product-subarray) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Syed-Danish18/DSA-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Syed-Danish18/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Syed-Danish18/DSA-/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Syed-Danish18/DSA-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Sliding Window
 |  |
 | ------- |
