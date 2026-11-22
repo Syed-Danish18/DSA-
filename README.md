@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Syed-Danish18/DSA-/tree/master/0152-maximum-product-subarray) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Syed-Danish18/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Syed-Danish18/DSA-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Binary Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Syed-Danish18/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Syed-Danish18/DSA-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Syed-Danish18/DSA-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Syed-Danish18/DSA-/tree/master/3331-find-subtree-sizes-after-changes) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Syed-Danish18/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
