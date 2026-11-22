@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Syed-Danish18/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Syed-Danish18/DSA-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Syed-Danish18/DSA-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Syed-Danish18/DSA-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
