@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Syed-Danish18/DSA-/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Syed-Danish18/DSA-/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Syed-Danish18/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Floyd's Cycle Finding Algorithm
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Syed-Danish18/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Syed-Danish18/DSA-/tree/master/0392-is-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Syed-Danish18/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Syed-Danish18/DSA-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Syed-Danish18/DSA-/tree/master/0392-is-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Syed-Danish18/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Syed-Danish18/DSA-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Syed-Danish18/DSA-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
