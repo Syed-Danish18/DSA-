@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Syed-Danish18/DSA-/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Syed-Danish18/DSA-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Syed-Danish18/DSA-/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Syed-Danish18/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Syed-Danish18/DSA-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Syed-Danish18/DSA-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Syed-Danish18/DSA-/tree/master/0392-is-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Syed-Danish18/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Syed-Danish18/DSA-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
