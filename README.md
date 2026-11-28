@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Syed-Danish18/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0496-next-greater-element-i](https://github.com/Syed-Danish18/DSA-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Syed-Danish18/DSA-/tree/master/0503-next-greater-element-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Syed-Danish18/DSA-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Syed-Danish18/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Syed-Danish18/DSA-/tree/master/2747-count-zero-request-servers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Syed-Danish18/DSA-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Syed-Danish18/DSA-/tree/master/0503-next-greater-element-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Syed-Danish18/DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Syed-Danish18/DSA-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Syed-Danish18/DSA-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
