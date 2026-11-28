@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Syed-Danish18/DSA-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Syed-Danish18/DSA-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Syed-Danish18/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Syed-Danish18/DSA-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Syed-Danish18/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Syed-Danish18/DSA-/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Syed-Danish18/DSA-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Syed-Danish18/DSA-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Syed-Danish18/DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Syed-Danish18/DSA-/tree/master/0503-next-greater-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Syed-Danish18/DSA-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Syed-Danish18/DSA-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
